@@ -1,4 +1,4 @@
-##Sometimes a software dev, sometimes a Data Engineer  
+## Sometimes a software dev, sometimes a Data Engineer  
 
 > _Constantly improving. Endlessly locked in._
 
