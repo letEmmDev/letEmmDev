@@ -1,20 +1,14 @@
-## 💻 About Me
-I'm passionate about Software Development and Data Driven Solutions.
+> Always grinding — sometimes solo, sometimes with the crew.  
+> _I code daily — shipping tools, bots, and ideas that grow in silence. Not for the streak, but for the vision._
+>
+> _Thanks for watching from the shadows — it means a lot!_
 
-- 🔭 I’m currently working on `DocLogic`
-- ✉️ How to reach me: [Email](mailto:pert.iterate1r.com)
+[<img align="left" width="390" alt="🦇" src="https://raw.githubusercontent.com/letEmmDev/metrics/master/metrics.classic.svg">](#)
 
-## 📈 My GitHub Stats
+[<img align="right" width="390" alt="🦇" src="https://raw.githubusercontent.com/letEmmDev/metrics/master/metrics.plugin.wakatime.svg">](#)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=letEmmDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letEmmDev&layout=compact)
+[<img align="right" width="390" alt="🦇" src="https://github-readme-stats.vercel.app/api?username=letEmmDev&hide_border=true&show_icons=true&theme=tokyonight&bg_color=FF000000&text_color=777777">](#)
 
-## 🛠️ Languages and Tools
+[<img align="right" width="390" alt="🦇" src="http://github-readme-streak-stats.herokuapp.com?user=letEmmDev&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">](#)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<!-- Add more badges as needed -->
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emmanuel-ramos-1013971b7/))
+[<img align="right" width="410" alt="🦇" src="https://github.com/letEmmDev/your-transparent-image.png">](#)
