@@ -1,17 +1,8 @@
-# Hi, I'm letEmmDev 👋
+## 💻 About Me
+I'm passionate about Software Development and Data Driven Solutions.
 
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-I'm passionate about software development and open source.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on `DocLogic`
+- ✉️ How to reach me: [Email](mailto:pert.iterate1r.com)
 
 ## 📈 My GitHub Stats
 
@@ -27,4 +18,4 @@ I'm passionate about software development and open source.
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/emmanuel-ramos-1013971b7/))
