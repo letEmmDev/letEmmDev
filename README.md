@@ -7,7 +7,6 @@ I'm passionate about Software Development and Data Driven Solutions.
 ## 📈 My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=letEmmDev&show_icons=true&theme=radical)
-![GitHub streak](https://streak-stats.demolab.com/?user=letEmmDev&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letEmmDev&layout=compact)
 
 ## 🛠️ Languages and Tools
