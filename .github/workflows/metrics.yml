@@ -1,0 +1,14 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}] # every hour
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: letEmmDev
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_github_token: ${{ secrets.METRICS_TOKEN }}
